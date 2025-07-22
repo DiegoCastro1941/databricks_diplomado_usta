@@ -1,4 +1,4 @@
-# **Procesamiento de Datos desde APIs usando Apache Spark en Databricks**
+# **Procesamiento de Datos desde APIs usando Apache Spark en Databricks Diplomado**
 
 Este proyecto está diseñado para **procesar datos desde APIs públicas** utilizando **Apache Spark** en el entorno de **Databricks**, permitiendo la carga, transformación y visualización de datos provenientes de APIs abiertas de Colombia.
 
